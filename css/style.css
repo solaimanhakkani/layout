@@ -1,0 +1,87 @@
+body {
+  color: snow;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'rubik';
+  text-align: center;
+  background: aqua;
+}
+
+
+
+/*
+.header {
+  min-height: 80px;
+  background: coral;
+}
+
+.wrapper {
+  overflow: hidden;
+}
+
+.contact {
+  min-height: 90px;
+  background: green;
+  width: 30%;
+  float: left;
+}
+
+.blog {
+  min-height: 90px;
+  width: 40%;
+  background: red;
+
+}
+
+.about {
+  min-height: 90px;
+  width: 30%;
+  background: pink;
+  float: right;
+}
+
+.footer {
+  min-height: 80px;
+  background: blue;
+}*/
+.header {
+  min-height: 60px;
+  background: #50ff63;
+}
+
+div.container {
+  overflow: hidden;
+}
+
+.wrapper div {
+  display: inline-block;
+  
+  
+}
+
+.contact {
+  min-height: 400px;
+  background: blue;
+  width: 33.33%;
+  float: left;
+}
+
+.blog {
+  min-height: 400px;
+  background: red;
+  width: 33.33%;
+  float: left;
+
+}
+
+.about {
+  min-height: 400px;
+  background: #a4fd06;
+  width: 33.33%;
+  float: left;
+}
+
+.footer {
+  min-height: 70px;
+  background: #fffc56;
+}
